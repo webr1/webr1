@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me<br>😎 What's My Deal?<br>Hey, I'm Maruf, a tech enthusiast powered by endless coffee and a knack for coding! ☕️<br> 
+<h3 align="left">😎 What's My Deal?<br>Hey, I'm Maruf, a tech enthusiast powered by endless coffee and a knack for coding! ☕️<br> 
   
 <br>-💾 Diving into languages like [e.g., Python, C#]. 
 
