@@ -1,14 +1,15 @@
 ![Main Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h3> align="left">😎 Who Am I?</h3>
-<2> Yo, I'm [Your Name], a code-wizard fueled by coffee and curiosity! ☕ </2> 
-- 💻 Coding in [e.g., Python, C#].  
-- 🐛 Bug hunter (they sometimes win, tho).  
-- 🌟 Dreaming of an app that doesn’t crash on demo day :).  
-- 🎮 Off-screen: gamer, meme enthusiast.
-- 🚗 Off-screen: Absolutely crazy about JDM cars — drifting and tuning are my jam!
+<h1 align="center">hey there 👋</h1>
 
-Drop a ping, let’s build something epic! 🚀
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h5 align="left">😎 Who Am I?<br>Yo, I'm Maruf] a code-wizard fueled by coffee and curiosity! ☕  <br>- 💻 Coding in [e.g., Python, C#].  <br>- 🐛 Bug hunter (they sometimes win, tho).  <br>- 🌟 Dreaming of an app that doesn’t crash on demo day :).  <br>- 🎮 Off-screen: gamer, meme enthusiast.<br>- 🚗 Off-screen: Absolutely crazy about JDM cars — drifting and tuning are my jam!<br><br>Drop a ping, let’s build something epic! 🚀</h5>
+
+###
 
 
 <div align="center">
@@ -82,6 +83,25 @@ Drop a ping, let’s build something epic! 🚀
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=webr1.webr1&"  />
 </div>
 
 ###
