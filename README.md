@@ -7,7 +7,7 @@
 
 ###
 
-<h5 align="left">😎 Who Am I?<br>Yo, I'm Maruf] a code-wizard fueled by coffee and curiosity! ☕  <br>- 💻 Coding in [e.g., Python, C#].  <br>- 🐛 Bug hunter (they sometimes win, tho).  <br>- 🌟 Dreaming of an app that doesn’t crash on demo day :).  <br>- 🎮 Off-screen: gamer, meme enthusiast.<br>- 🚗 Off-screen: Absolutely crazy about JDM cars — drifting and tuning are my jam!<br><br>Drop a ping, let’s build something epic! 🚀</h5>
+<h4 align="left">😎 Who Am I?<br>Yo, I'm Maruf] a code-wizard fueled by coffee and curiosity! ☕  <br>- 💻 Coding in [e.g., Python, C#].  <br>- 🐛 Bug hunter (they sometimes win, tho).  <br>- 🌟 Dreaming of an app that doesn’t crash on demo day :).  <br>- 🎮 Off-screen: gamer, meme enthusiast.<br>- 🚗 Off-screen: Absolutely crazy about JDM cars — drifting and tuning are my jam!<br><br>Drop a ping, let’s build something epic! 🚀</h4>
 
 ###
 
@@ -97,11 +97,4 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=webr1.webr1&"  />
-</div>
-
-###
+ 
