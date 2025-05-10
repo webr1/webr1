@@ -7,7 +7,7 @@
 
 ###
 
-<h4 align="left">👨‍💻 About Me<br>😎 What's My Deal?<br>Hey, I'm Maruf, a tech enthusiast powered by endless coffee and a knack for coding! ☕️<br> 
+<h3 align="left">👨‍💻 About Me<br>😎 What's My Deal?<br>Hey, I'm Maruf, a tech enthusiast powered by endless coffee and a knack for coding! ☕️<br> 
   
 <br>-💾 Diving into languages like [e.g., Python, C#]. 
 
@@ -19,9 +19,9 @@
 
 <br>-🎮 When I’m not coding: gaming and laughing at memes. 
 
-<br>-🏎 Total JDM car nut — drifting and modding are my vibe!<br>Hit me up, 
+<br>-🏎 Total JDM car nut — drifting and modding are my vibe!
 
-let’s make something legendary! 🌟 </h4>
+<br> Hit me up, let’s make something legendary! 🌟 </h3>
 
 
 
