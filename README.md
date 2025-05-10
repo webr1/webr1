@@ -1,6 +1,6 @@
 ![Main Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h3 align="left">😎 Who Am I?</h3>
-<2>Yo, I'm [Your Name], a code-wizard fueled by coffee and curiosity! ☕  
+<2 Yo, I'm [Your Name], a code-wizard fueled by coffee and curiosity! ☕ </2> 
 - 💻 Coding in [e.g., Python, C#].  
 - 🐛 Bug hunter (they sometimes win, tho).  
 - 🌟 Dreaming of an app that doesn’t crash on demo day :).  
