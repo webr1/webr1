@@ -7,9 +7,7 @@
 
 ###
 
-<h4 align="left">😎 Who Am I?<br>Yo, I'm Maruf] a code-wizard fueled by coffee and curiosity! ☕  <br>- 💻 Coding in [e.g., Python, C#].  <br>- 🐛 Bug hunter (they sometimes win, tho).  <br>- 🌟 Dreaming of an app that doesn’t crash on demo day :).  <br>- 🎮 Off-screen: gamer, meme enthusiast.<br>- 🚗 Off-screen: Absolutely crazy about JDM cars — drifting and tuning are my jam!<br><br>Drop a ping, let’s build something epic! 🚀</h4>
-
-###
+<h4 align="left">👨‍💻 About Me<br>😎 What's My Deal?<br>Hey, I'm Maruf, a tech enthusiast powered by endless coffee and a knack for coding! ☕️<br><br>💾 Diving into languages like [e.g., Python, C#].<br>🔍 Chasing bugs (they’re sneaky, but I’m sneakier).<br>🚀 Aiming to create an app that survives its big reveal!<br>📚 Studying hard at TATU (Tashkent University of Information Technologies) in Uzbekistan, sharpening my skills as a student.<br>🎮 When I’m not coding: gaming and laughing at memes.<br>🏎 Total JDM car nut — drifting and modding are my vibe!<br>Hit me up, let’s make something legendary! 🌟</h4>
 
 
 <div align="center">
