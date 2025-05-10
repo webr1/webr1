@@ -1,5 +1,13 @@
 ![Main Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h3 align="left">### 😎 Who Am I?
+Yo, I'm [Your Name], a code-wizard fueled by coffee and curiosity! ☕  
+- 💻 Coding in [e.g., Python, C#].  
+- 🐛 Bug hunter (they sometimes win, tho).  
+- 🌟 Dreaming of an app that doesn’t crash on demo day :).  
+- 🎮 Off-screen: gamer, meme enthusiast.
+- 🚗 Off-screen: Absolutely crazy about JDM cars — drifting and tuning are my jam!
+
+Drop a ping, let’s build something epic! 🚀</h3>
 
 ###
 
