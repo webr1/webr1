@@ -1,15 +1,15 @@
 ![Main Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h3 align="left">### 😎 Who Am I?
-Yo, I'm [Your Name], a code-wizard fueled by coffee and curiosity! ☕  
+<h3 align="left">😎 Who Am I?</h3>
+<2>Yo, I'm [Your Name], a code-wizard fueled by coffee and curiosity! ☕  
 - 💻 Coding in [e.g., Python, C#].  
 - 🐛 Bug hunter (they sometimes win, tho).  
 - 🌟 Dreaming of an app that doesn’t crash on demo day :).  
 - 🎮 Off-screen: gamer, meme enthusiast.
 - 🚗 Off-screen: Absolutely crazy about JDM cars — drifting and tuning are my jam!
 
-Drop a ping, let’s build something epic! 🚀</h3>
+Drop a ping, let’s build something epic! 🚀
 
-###
+</2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=webr1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
