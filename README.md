@@ -96,10 +96,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webr1" alt="webr1" /></a> </p>
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHUxcmE1M2YxMGJ1amMxdWRla3o2am5mdjR2enBna2x4ZGI3c3NnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQveRAM495otSfRKZr/giphy.gif"  />
-</div>
-
 <p align="center">
 </p>
 
