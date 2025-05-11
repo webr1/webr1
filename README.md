@@ -33,6 +33,25 @@
 <br>-🏎 Total JDM car nut — drifting and modding are my vibe!
 
 <br> Hit me up, let’s make something legendary! 🌟 </h4>
+- 🔭 I’m currently working on **axasx**
+
+- 🌱 I’m currently learning **xa**
+
+- 👯 I’m looking to collaborate on **asx**
+
+- 🤝 I’m looking for help with **xas**
+
+- 👨‍💻 All of my projects are available at [xas](xas)
+
+- 📝 I regularly write articles on [axs](axs)
+
+- 💬 Ask me about **xas**
+
+- 📫 How to reach me **sxa**
+
+- 📄 Know about my experiences [xas](xas)
+
+- ⚡ Fun fact **xa**
 
 
 
