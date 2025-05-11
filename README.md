@@ -1,6 +1,8 @@
 ![Main Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center"> 👋 Hey there I'm Maruf </h1>
 
+---
+
 ###
 
 <div align="center">
@@ -9,7 +11,11 @@
 
 ###
 
+---
+
 <h3 align="left">👩‍💻  About Me</h3>
+
+---
 
 ###
 
@@ -42,6 +48,8 @@
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHY1cDdzaXA3Nm4wbWZ1cXNyb2pwM3JtZmF6cmpheXBlOHF3eGdxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyjV638E50Z2LlK/giphy.gif"  />
 
+---
+
 ###
 
 <div align="left">
@@ -72,6 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
 </div>
 
+---
+
 ###
 
 <div align="left">
@@ -90,6 +100,8 @@
 </a>
 
 </div>
+
+---
 
 ###
 <h3 align="center">A passionate full-stack developer from axs</h3>
