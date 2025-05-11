@@ -63,10 +63,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -80,7 +76,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
 </div>
 
----
+
 
 ###
 
@@ -103,17 +99,10 @@
 
 ---
 
-###
-<h3 align="center">A passionate full-stack developer from axs</h3>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webr1" alt="webr1" /></a> </p>
 
-<p align="center">
-</p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=webr1&show_icons=true&locale=en&layout=compact" alt="webr1" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=webr1&" alt="webr1" /></p>
 
 
  
