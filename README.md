@@ -93,7 +93,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=webr1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://monkeytype.com/profile/webr1" height="150" alt="languages graph"  />
+  <a href="https://monkeytype.com/profile/webr1">
+  <img src="https://img.shields.io/static/v1?message=MonkeyType&logo=keyboard&label=&color=323330&logoColor=F7C948&labelColor=&style=for-the-badge" height="35" alt="MonkeyType Profile" />
+</a>
 </div>
 
 ###
