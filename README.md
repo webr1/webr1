@@ -20,38 +20,30 @@
   
 <br>Hey, My nickname webr1, a tech enthusiast powered by endless coffee and a knack for coding! ☕️<br> 
   
-<br>-💾 Diving into languages like [e.g., Python, C#]. 
+- 🔭 📚 Studying hard at TATU **(Tashkent University of Information Technologies) in Uzbekistan, sharpening my skills as a student.**
 
-<br>-🔍 Chasing bugs (they’re sneaky, but I’m sneakier).
+- 🌱 I’m currently learning **[e.g., Python, C#, English and Japanese languages, etc...]**
 
-<br>-🚀 Aiming to create an app that survives its big reveal!
+- 🔍 Chasing bugs: they’re sneaky, but I’m sneakier.
 
-<br>-📚 Studying hard at TATU (Tashkent University of Information Technologies) in Uzbekistan, sharpening my skills as a student. 
+- 🤝 I’m looking for help with **C#,Japanese language**
 
-<br>-🎮 When I’m not coding: gaming and laughing at memes. 
+- 👨‍💻 All of my projects are available at [webrq](https://github.com/webr1/webr1)
 
-<br>-🏎 Total JDM car nut — drifting and modding are my vibe!
+- 📝 I regularly write articles on [Telegram](https://t.me/mkubaev)
+
+- 💬 Ask me about **python bots in Telegram**
+
+- 📫 How to reach me **mkubaev24@gmail.com**
+
+- 🚀 Aiming to create an app that survives its big reveal!
+
+- ⚡ Fun fact: Total JDM car nut — drifting and modding are my vibe!
+
+
 
 <br> Hit me up, let’s make something legendary! 🌟 </h4>
-- 🔭 I’m currently working on **axasx**
 
-- 🌱 I’m currently learning **xa**
-
-- 👯 I’m looking to collaborate on **asx**
-
-- 🤝 I’m looking for help with **xas**
-
-- 👨‍💻 All of my projects are available at [xas](xas)
-
-- 📝 I regularly write articles on [axs](axs)
-
-- 💬 Ask me about **xas**
-
-- 📫 How to reach me **sxa**
-
-- 📄 Know about my experiences [xas](xas)
-
-- ⚡ Fun fact **xa**
 
 
 
