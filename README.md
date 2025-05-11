@@ -94,14 +94,13 @@
 ###
 <h3 align="center">A passionate frontend developer from axs</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webr1" alt="webr1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webr1" alt="webr1" /></a> </p>
 
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHUxcmE1M2YxMGJ1amMxdWRla3o2am5mdjR2enBna2x4ZGI3c3NnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQveRAM495otSfRKZr/giphy.gif"  />
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=webr1&show_icons=true&locale=en&layout=compact" alt="webr1" /></p>
