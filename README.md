@@ -20,7 +20,7 @@
   
 <br>Hey, My nickname webr1, a tech enthusiast powered by endless coffee and a knack for coding! ☕️<br> 
   
-- 🔭 📚 Studying hard at TATU **(Tashkent University of Information Technologies) in Uzbekistan, sharpening my skills as a student.**
+- 📚 Studying hard at TATU **(Tashkent University of Information Technologies) in Uzbekistan, sharpening my skills as a student.**
 
 - 🌱 I’m currently learning **[e.g., Python, C#, English and Japanese languages, etc...]**
 
@@ -39,8 +39,6 @@
 - 🚀 Aiming to create an app that survives its big reveal!
 
 - ⚡ Fun fact: Total JDM car nut — drifting and modding are my vibe!
-
-
 
 <br> Hit me up, let’s make something legendary! 🌟 </h4>
 
