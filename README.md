@@ -92,7 +92,7 @@
 </div>
 
 ###
-<h3 align="center">A passionate frontend developer from axs</h3>
+<h3 align="center">A passionate full-stack developer from axs</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webr1" alt="webr1" /></a> </p>
 
