@@ -101,6 +101,8 @@
 
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
+
 ---
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webr1" alt="webr1" /></a> </p>
