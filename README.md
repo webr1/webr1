@@ -18,7 +18,7 @@
 
 <h4 align="left">😎 What's My Deal?
   
-<br>Hey, My nickname webr1, a tech enthusiast powered by endless coffee and a knack for coding! ☕️<br> 
+<br>My nickname webr1, a tech enthusiast powered by endless coffee and a knack for coding! ☕️<br> 
   
 - 📚 Studying hard at TATU **(Tashkent University of Information Technologies) in Uzbekistan, sharpening my skills as a student.**
 
