@@ -28,7 +28,7 @@
 
 - 🤝 I’m looking for help with **C#,Japanese language**
 
-- 👨‍💻 All of my projects are available at [webrq](https://github.com/webr1/webr1)
+- 👨‍💻 All of my projects are available at [webr1](https://github.com/webr1/webr1)
 
 - 📝 I regularly write articles on [Telegram](https://t.me/webr_1)
 
