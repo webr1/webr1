@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at [webrq](https://github.com/webr1/webr1)
 
-- 📝 I regularly write articles on [Telegram](https://t.me/mkubaev)
+- 📝 I regularly write articles on [Telegram](https://t.me/webr_1)
 
 - 💬 Ask me about **python bots in Telegram**
 
