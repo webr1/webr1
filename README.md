@@ -12,11 +12,6 @@
 
 <br><br>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=webr1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webr1&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webr1/webr1/output/github-contribution-grid-snake-dark.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/webr1/webr1/output/github-contribution-grid-snake.svg" />
