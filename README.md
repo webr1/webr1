@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b0f17,50:7c3aed,100:22d3ee&height=220&section=header&text=MARUF&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=backend%20·%20go%20·%20python%20·%20uzbekistan&descAlignY=62&descSize=18&stroke=c084fc&strokeWidth=1" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=620&lines=%3E+I+build+backends+that+don't+wake+you+up+at+3am;%3E+Go+for+speed.+Python+for+sanity.;%3E+jutsu.uz+%E2%80%A2+toza-suv+%E2%80%A2+audio-book-ai;%3E+while(alive)+%7B+code()+%7D" alt="typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=620&lines=%3E+I+build+backends+that+don't+wake+you+up+at+3am;%3E+Go+for+speed.+Python+for+sanity.;%3E+while(alive)+%7B+code()+%7D" alt="typing" /></a>
 
 <br>
 
@@ -29,33 +29,11 @@
 
 ---
 
-<h2 align="center">🛠 Things I shipped</h2>
-
-<div align="center">
-
-| | Project | Stack | What it is |
-|:-:|:--|:-:|:--|
-| 🥷 | [**jutsu.uz**](https://github.com/webr1/jutsu.uz) | `Go` | backend for the jutsu.uz platform + [bot](https://github.com/webr1/jutsu_uz_bot) |
-| 💧 | [**toza-suv**](https://github.com/webr1/toza-suv-backend) | `Go` `TS` | full-stack — [backend](https://github.com/webr1/toza-suv-backend) & [frontend](https://github.com/webr1/toza-suv-frontend) |
-| 🎧 | [**audio-book-ai**](https://github.com/webr1/audio-book-ai) | `Go` | AI-powered audiobooks |
-| 🚀 | [**Ascend-backend**](https://github.com/webr1/Ascend-backend) | `Go` | backend service |
-| 🎓 | [**startup-ilmiy-uz**](https://github.com/webr1/startup-ilmiy-uz) | `Go` `JS` | scientific startup platform |
-| 🔐 | [**fastapi-jwt**](https://github.com/webr1/fastapi-jwt) | `Python` | JWT auth with FastAPI |
-
-</div>
-
----
-
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=webr1&show_icons=true&hide_border=true&bg_color=0b0f17&title_color=c084fc&icon_color=22d3ee&text_color=e6edf3&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webr1&layout=compact&hide_border=true&bg_color=0b0f17&title_color=c084fc&text_color=e6edf3&langs_count=6" />
-
-<img src="https://streak-stats.demolab.com?user=webr1&hide_border=true&background=0B0F17&ring=C084FC&fire=22D3EE&currStreakLabel=C084FC&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=webr1&bg_color=0b0f17&color=c084fc&line=22d3ee&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=commit%20activity" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=webr1&hide_border=true&background=0B0F17&ring=C084FC&fire=22D3EE&currStreakLabel=C084FC&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="80%"/>
 
 </div>
 
